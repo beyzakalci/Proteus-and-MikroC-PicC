@@ -37,7 +37,7 @@ DELAY_MS(400);
 //if(9)
 PORTB=0x7F;
 DELAY_MS(400);
-//if(PORTD.RD1==10)
+//if(10)
 PORTB=0x6F;
 DELAY_MS(500);
 
