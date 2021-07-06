@@ -47,10 +47,11 @@ DELAY_MS(500);
 else
 {PORTB=display;}   */
 
+/*buton eklemesi yapýlacak.
 if(PORTD.RD0=0)
 {PORTB=0x3F;}
 if (PORTD.RD1=0)
 {PORTB=PORTB;}
-
+*/
 
 }}
